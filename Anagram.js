@@ -1,4 +1,4 @@
-// An anagram is another word or phrase formed by rearranging letters of the first word or phrase.
+// An anagram is another word or phrase formed by rearranging letters of the first word or phrase.tou
 
 const anagrams = (str1, str2) => {
   if (str1.length !== str2.length) {
