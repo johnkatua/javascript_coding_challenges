@@ -36,3 +36,4 @@ const characterCount = (str) => {
 console.log(characterCount('google.com'));
 
 // expected result = 'o';
+
